@@ -2,7 +2,7 @@
 
 This is the project built by React-Native Expo-CLI
 
-![Alt text](assets/images/screenshot.png?raw=true)
+![Alt text](assets/screenshot.png?raw=true)
 
 
 #usage
