@@ -21,3 +21,6 @@ press a - Android
 press w - web
 ```
 Scan the QR to use it on mobile after starting the server.
+
+Using the Google Autocomplete functionality, use your GOOGLE_API_KEY in the SearchBar.js component line no: 11
+And make the home page dynamic use the YELP_API_KEY in the Home component line no: 10
